@@ -1,4 +1,4 @@
-<img src="./assets/screenshot.png" alt="photo du site"/>
+<img src="../src/assets/screenshot.png" alt="photo du site"/>
 
 # Snapface
 
